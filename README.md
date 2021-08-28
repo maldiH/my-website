@@ -2,6 +2,4 @@
 
 updating readme file
 
-Updated locally
-
-Updating it further to update-merge
+Updates made on a master on GitHun before rebase
